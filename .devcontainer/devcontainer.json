@@ -1,0 +1,14 @@
+{
+	"name": "matplotlib-Dev-Container",
+	"dockerComposeFile": "docker-compose.yml",
+	"service": "app",
+	"workspaceFolder": "/workspace",
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"vscode-icons-team.vscode-icons",
+				"ms-azuretools.vscode-docker"
+			]
+		}
+	}
+  }
